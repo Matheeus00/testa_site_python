@@ -11,8 +11,9 @@ def clear():
 def testador():
     print(f'''{magenta} 
     **********************************
-    *     Testador de Sites          *
-    *         By: Matheus Lucas      * 
+    *                                *
+    *       Testador de Sites        *
+    *                                *
     **********************************
     {reset}''')
     
