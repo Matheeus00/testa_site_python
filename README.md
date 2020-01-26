@@ -8,6 +8,6 @@
 - Há três exceções, se houve um problema com a conexão, se o site que foi digitado é inválido ou se o programa foi parado intencionalmente através do teclado.
 
 **Promessas:**
-- Com o tempo adicionarei, talvez junto a comunidade de Python, mais retornos de Status Code e exceptions, deixando o script mais bonito;
-- Também uma forma de testar vários sites executados em sequência, pegos através de um arquivo TXT;
+- Com o tempo adicionarei, talvez junto a comunidade de Python, mais retornos de Status Code e exceptions, deixando o script mais bonito e funcional;
+- Também uma forma de testar vários sites executados em sequência, capturados através de um arquivo TXT;
 - Por fim, mas não menos importante, o registro em arquivos de log TXT, agrupados por data.
